@@ -165,3 +165,11 @@ Enable users to filter data by:
 - **Tableau Public**
 - **CSV data sources**
 - **Calculated Fields, Parameters, Filters, Actions & Charts**
+
+---
+
+🌟 About Me: 
+Hi there! I'm Abolfazl Sadeghi. I’m an IE undergraduate in Shahid Beheshti University on to learn new things about data
+
+connect with me:
+abolfazl84.as@gmail.com
