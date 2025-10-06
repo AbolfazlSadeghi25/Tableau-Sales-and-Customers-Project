@@ -17,8 +17,18 @@ The purpose of the **Sales Dashboard** is to present an overview of the key sale
 #### 🟢 KPI Overview
 - Display a summary of:
   - **Total Sales**
-  - **Total Profits**
+   <p align="center">
+  <img src="docs/sales_kpi.jpg" alt="sales_kpi.jpg" width="350"/>
+  </p>
+
+  - **Total Profit**
+   <p align="center">
+  <img src="docs/profit_kpi.jpg" alt="profit_kpi.jpg" width="350"/>
+  </p>
+  
   - **Total Quantity**
+  - #### 🟢 KPI Overview
+- Display a summary of:
   
   for both **the current year** and **the previous year**.
 
