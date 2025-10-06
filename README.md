@@ -5,6 +5,13 @@ This user story outlines the specifications for building **two Tableau dashboard
 
 ---
 
+## 🚀 Dashboards Access
+> 🔗 **View on Tableau Public:**  
+> 🟢 [sales_and_customer_dashboard.twbx](/dashboard/sales_and_customers_dashboard.twbx)  
+> 🔵 [Link](https://public.tableau.com/views/SalesCustomersDashboard_17597098655090/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 💼 Sales Dashboard | Requirements
 
 ### 🎯 Dashboard Purpose
