@@ -74,8 +74,19 @@ The **Customer Dashboard** aims to provide an overview of **customer data, trend
 #### 🟢 KPI Overview
 - Display a summary of:
   - **Total Number of Customers**
+     <p align="left">
+  <img src="/docs/customers_kpi.png" alt="customers_kpi.png" width="350"/>
+  </p>
+  
   - **Total Sales per Customer**
+     <p align="left">
+  <img src="/docs/sales_per_customer_kpi.png" alt="sales_per_customer_kpi.png" width="350"/>
+  </p>
+  
   - **Total Number of Orders**
+     <p align="left">
+  <img src="/docs/orders_kpi.png" alt="orders_kpi.png" width="350"/>
+  </p>
   
   for **the current year** and **the previous year**.
 
@@ -90,7 +101,10 @@ The **Customer Dashboard** aims to provide an overview of **customer data, trend
 #### 📊 Customer Distribution by Number of Orders
 - Represent the **distribution of customers** based on the **number of orders** they have placed.  
 - Provide insights into **customer behavior, loyalty, and engagement**.
-
+ <p align="left">
+  <img src="/docs/customer_distribution_by_number_of_orders.png" alt="customer_distribution_by_number_of_orders.png" width="500"/>
+  </p>
+  
 ---
 
 #### 🏆 Top 10 Customers by Profit
@@ -101,7 +115,10 @@ The **Customer Dashboard** aims to provide an overview of **customer data, trend
   - Current Sales  
   - Current Profit  
   - Last Order Date  
-
+ <p align="left">
+  <img src="/docs/top_10_customer_by_profit.png" alt="top_10_customer_by_profit.png" width="500"/>
+  </p>
+  
 ---
 
 ## 🎨 Design & Interactivity Requirements
@@ -123,6 +140,8 @@ Enable users to filter data by:
   - State  
   - City  
 
+<video src="/docs/sales_and_customers_dashboard.mp4" controls width="700">
+</video>
 ---
 
 ## 🧱 Project Summary
