@@ -17,7 +17,7 @@ The purpose of the **Sales Dashboard** is to present an overview of the key sale
 #### 🟢 KPI Overview
 - Display a summary of:
   - **Total Sales**
-   <p align="center">
+   <p align="left">
   <img src="/docs/sales_kpi.png" alt="sales_kpi.png" width="350"/>
   </p>
 
