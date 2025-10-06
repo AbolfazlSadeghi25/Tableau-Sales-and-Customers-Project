@@ -1,4 +1,4 @@
-# 📊 Tableau---Sales-Customers---Project
+# 📊 Tableau-Sales-and-Customers-Project
 
 ## 🧭 Introduction
 This user story outlines the specifications for building **two Tableau dashboards** designed to help stakeholders — including sales managers and executives — analyze **sales performance** and **customer behavior**.
