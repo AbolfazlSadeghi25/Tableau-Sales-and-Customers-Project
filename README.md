@@ -140,8 +140,10 @@ Enable users to filter data by:
   - State  
   - City  
 
-<video src="/docs/sales_and_customer_dashboard.mp4" controls width="700">
-</video>
+  <p align="left">
+  <img src="/docs/sales_and_customers_dashboard.gif" alt="sales_and_customers_dashboard.gif" width="700"/>
+  </p>
+  
 ---
 
 ## 🧱 Project Summary
