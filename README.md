@@ -18,12 +18,12 @@ The purpose of the **Sales Dashboard** is to present an overview of the key sale
 - Display a summary of:
   - **Total Sales**
    <p align="center">
-  <img src="/docs/sales_kpi.jpg" alt="sales_kpi.jpg" width="350"/>
+  <img src="/docs/sales_kpi.png" alt="sales_kpi.png" width="350"/>
   </p>
 
   - **Total Profit**
    <p align="center">
-  <img src="/docs/profit_kpi.jpg" alt="profit_kpi.jpg" width="350"/>
+  <img src="/docs/profit_kpi.png" alt="profit_kpi.png" width="350"/>
   </p>
   
   - **Total Quantity**
