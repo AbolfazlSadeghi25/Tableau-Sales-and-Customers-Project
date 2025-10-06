@@ -22,7 +22,7 @@ The purpose of the **Sales Dashboard** is to present an overview of the key sale
   </p>
 
   - **Total Profit**
-   <p align="center">
+   <p align="left">
   <img src="/docs/profit_kpi.png" alt="profit_kpi.png" width="350"/>
   </p>
   
