@@ -102,7 +102,7 @@ The **Customer Dashboard** aims to provide an overview of **customer data, trend
 - Represent the **distribution of customers** based on the **number of orders** they have placed.  
 - Provide insights into **customer behavior, loyalty, and engagement**.
  <p align="left">
-  <img src="/docs/customer_distribution_by_number_of_orders.png" alt="customer_distribution_by_number_of_orders.png" width="500"/>
+  <img src="/docs/customers_distribution_by_number_of_orders.png" alt="customers_distribution_by_number_of_orders.png" width="500"/>
   </p>
   
 ---
@@ -140,7 +140,7 @@ Enable users to filter data by:
   - State  
   - City  
 
-<video src="/docs/sales_and_customers_dashboard.mp4" controls width="700">
+<video src="/docs/sales_and_customer_dashboard.mp4" controls width="700">
 </video>
 ---
 
