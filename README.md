@@ -157,4 +157,4 @@ Enable users to filter data by:
 ### 💡 Tools & Technologies
 - **Tableau Public**
 - **CSV data sources**
-- **Calculated Fields, Parameters, Filters and charts**
+- **Calculated Fields, Parameters, Filters, Actions & Charts**
