@@ -47,14 +47,19 @@ The purpose of the **Sales Dashboard** is to present an overview of the key sale
 #### 🧮 Product Subcategory Comparison
 - Compare **sales performance** by **different product subcategories** for both years.  
 - Include a **comparison of sales and profit** side by side.
-
+  <p align="left">
+  <img src="/docs/product_subcategory_comparison.png" alt="/docs/product_subcategory_comparison.png" width="500"/>
+  </p>
 ---
 
 #### 📅 Weekly Trends for Sales & Profit
 - Present **weekly sales and profit data** for the current year.  
 - Display the **average weekly values** as a reference line or benchmark.  
 - **Highlight weeks above and below average** to draw attention to performance variations.
-
+  <p align="left">
+  <img src="/docs/weekly_trend_for_sales_and_profit.png" alt="weekly_trend_for_sales_and_profit.png" width="500"/>
+  </p>
+  
 ---
 
 ## 👥 Customer Dashboard | Requirements
