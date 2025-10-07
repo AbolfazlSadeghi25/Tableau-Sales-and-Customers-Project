@@ -169,7 +169,7 @@ Enable users to filter data by:
 ---
 
 🌟 About Me: 
-Hi there! I'm Abolfazl Sadeghi. I’m an IE undergraduate in Shahid Beheshti University on to learn new things about data
+Hi there! I'm Abolfazl Sadeghi. I’m an IE undergraduate in Shahid Beheshti University, passionate about learning new things in data field
 
 connect with me:
 abolfazl84.as@gmail.com
